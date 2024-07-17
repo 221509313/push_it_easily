@@ -1,0 +1,383 @@
+
+
+.nav-links {
+    justify-content: right;
+
+    display: flex;
+}
+
+.nav-links a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+   
+}
+
+section {
+    text-align: center;
+    background: navy;
+    padding: 3vh;
+    color: aliceblue;
+   
+}
+
+h3 {
+    text-align: center;
+
+}
+
+.carousel-item img {
+    width: 4%;
+    height: 4%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+}
+
+
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.logo h2 {
+    text-shadow: 2px -5px 2px navy;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 4%;
+}
+
+.shortcut-links a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 4%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+
+    background: navy;
+    color: aliceblue;
+}
+
+.contacts a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 4%;
+}
+
+@media screen and (max-width:768px) {
+    .footer {
+        display: flex;
+        justify-content: space-around;
+
+        background: navy;
+        color: aliceblue;
+       
+    }
+
+    
+    .shortcut-links a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+        margin-right: 20px;
+    }
+
+    .copyright a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .contacts a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .nav-links {
+        justify-content: right;
+
+        display: flex;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+    }
+
+    section {
+        text-align: center;
+        background: navy;
+        padding: 3vh;
+        color: aliceblue;
+    }
+
+    h3 {
+        text-align: center;
+
+    }
+
+    .carousel-item img {
+        width: 4%;
+        height: 4%;
+        padding-left: 5%;
+        padding-right: 5%;
+       
+    }
+
+    .container-fluid {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        
+    }
+
+    .logo h2 {
+        text-shadow: 2px -5px 2px navy;
+    }
+}
+.card-group{
+    box-shadow:  20px 10px 9px blueviolet;
+    border:1px solid blue;
+   
+}
+@media screen and (max-width:414px) {
+    .footer {
+        display: flex;
+        justify-content: space-around;
+
+        background: navy;
+        color: aliceblue;
+        
+    }
+
+    .shortcut-links a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+        margin-right: 20px;
+    }
+
+    .copyright a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .contacts a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .nav-links {
+        justify-content: right;
+
+        display: flex;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+    }
+
+    section {
+        text-align: center;
+        background: navy;
+        padding: 3vh;
+        color: aliceblue;
+    }
+
+    h3 {
+        text-align: center;
+
+    }
+
+    .carousel-item img {
+        width: 4%;
+        height: 4%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 20%;
+        
+    }
+
+    .container-fluid {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+
+    .logo h2 {
+        text-shadow: 2px -5px 2px navy;
+    }
+}
+
+@media screen and (max-width:390px) {
+    .footer {
+        display: flex;
+        justify-content: space-around;
+
+        background: navy;
+        color: aliceblue;
+       
+    }
+
+    .shortcut-links a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+        margin-right: 20px;
+    }
+
+    .copyright a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .contacts a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .nav-links {
+        justify-content: right;
+
+        display: flex;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+    }
+
+    section {
+        text-align: center;
+        background: navy;
+        padding: 3vh;
+        color: aliceblue;
+    }
+
+    h3 {
+        text-align: center;
+
+    }
+
+    .carousel-item img {
+        width: 4%;
+        height: 4%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 20%;
+    }
+
+    .container-fluid {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+
+    .logo h2 {
+        text-shadow: 2px -5px 2px navy;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .footer {
+        display: flex;
+        justify-content: space-around;
+
+        background: navy;
+        color: aliceblue;
+       
+    }
+
+    .shortcut-links a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+        margin-right: 20px;
+    }
+
+    .copyright a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .contacts a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        margin-top: 4%;
+    }
+
+    .nav-links {
+        justify-content: right;
+
+        display: flex;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+    }
+
+    section {
+        text-align: center;
+        background: navy;
+        padding: 3vh;
+        color: aliceblue;
+    }
+
+    h3 {
+        text-align: center;
+
+    }
+
+    .carousel-item img {
+        width: 4%;
+        height: 4%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 20%;
+    }
+
+    .container-fluid {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+
+    .logo h2 {
+        text-shadow: 2px -5px 2px navy;
+    }
+}
